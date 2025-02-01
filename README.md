@@ -1,3 +1,2 @@
 # EnderTech1.github.io
-Kamu nanyeaa??
-tuli
+My First Repository!
